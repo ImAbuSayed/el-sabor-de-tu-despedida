@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/el-sabor-de-tu-despedida/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for El sabor de tu despedida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-sabor-de-tu-despedida/) |
+| **Get License** | [Get License For El sabor de tu despedida](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/el-sabor-de-tu-despedida/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Nena, te vas pero dejas tu aroma en la piel
+> Ese sabor a despedida que sabe a miel
+> Esta noche es nuestra, no mires el reloj
+> Bailamos en la sombra, solos tú y yo
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
