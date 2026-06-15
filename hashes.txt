@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - El sabor de tu despedida
+
+This log tracks the cryptographic history and versioning for the song **El sabor de tu despedida** (el-sabor-de-tu-despedida).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-15T11:27:03.426373 | `v1` | `f75019b95bbea97be563412d416f25f4b279c35300afe9e74b8ff956c3389301` | `d594f8309de8432f275ec92815a39d8edef155caf58e36c4b8dd2382a4392e3e` | `2026-06-15_el-sabor-de-tu-despedida-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
